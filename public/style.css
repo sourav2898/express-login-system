@@ -1,0 +1,12 @@
+.center-div {
+  padding: 10%;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.logout {
+  color: #fff;
+  background-color: green;
+  padding: 10px;
+  margin: 5px;
+}
